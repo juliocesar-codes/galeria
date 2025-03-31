@@ -1,5 +1,7 @@
 ## GALERIA DE FOTOS 
 
+Galeria de fotos utilizando HTML e CSS
+
 ## Tecnologias utilizadas 
 
 * HTML
